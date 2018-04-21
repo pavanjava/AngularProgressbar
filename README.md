@@ -1,6 +1,6 @@
 # AngularProgressbar
 This is a custom progress bar that can be controlled as angular directive.
-![alt text](https://github.com/pavanjava/AngularToggleSwitch/blob/master/toggleSwitch.png)
+![alt text](https://github.com/pavanjava/AngularProgressbar/blob/master/progressBar.png)
 
 Include the progressBar module in your index.html as below
 
